@@ -12,4 +12,4 @@ To implement IPC.
 
 
 You can run a.exe and msgqueue.py as child_process through sys1.js.
-and then, the two child processes would be connected by two addresses.
+and then, the two child processes would be connected by std in and out.
